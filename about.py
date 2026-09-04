@@ -13,5 +13,3 @@ def main():
 
 
 main()
-
-print(f"Letters in surname: {len(surname)}")
